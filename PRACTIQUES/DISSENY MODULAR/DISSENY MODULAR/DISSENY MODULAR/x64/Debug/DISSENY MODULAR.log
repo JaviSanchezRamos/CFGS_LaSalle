@@ -1,0 +1,20 @@
+﻿  DISSENY MODULAR.cpp
+E:\AluCiclesGS1\MODUL - PROG\DISSENY MODULAR\DISSENY MODULAR\DISSENY MODULAR\DISSENY MODULAR.cpp(2,7): error C2143: error de sintaxis: falta ';' delante de 'namespace'
+E:\AluCiclesGS1\MODUL - PROG\DISSENY MODULAR\DISSENY MODULAR\DISSENY MODULAR\DISSENY MODULAR.cpp(2,1): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+E:\AluCiclesGS1\MODUL - PROG\DISSENY MODULAR\DISSENY MODULAR\DISSENY MODULAR\DISSENY MODULAR.cpp(2,20): error C2059: error de sintaxis: ';'
+E:\AluCiclesGS1\MODUL - PROG\DISSENY MODULAR\DISSENY MODULAR\DISSENY MODULAR\DISSENY MODULAR.cpp(3,1): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+E:\AluCiclesGS1\MODUL - PROG\DISSENY MODULAR\DISSENY MODULAR\DISSENY MODULAR\DISSENY MODULAR.cpp(3,6): error C2146: error de sintaxis: falta ';' delante del identificador 'duplicate'
+E:\AluCiclesGS1\MODUL - PROG\DISSENY MODULAR\DISSENY MODULAR\DISSENY MODULAR\DISSENY MODULAR.cpp(4,1): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+E:\AluCiclesGS1\MODUL - PROG\DISSENY MODULAR\DISSENY MODULAR\DISSENY MODULAR\DISSENY MODULAR.cpp(4,5): error C2146: error de sintaxis: falta ';' delante del identificador 'main'
+E:\AluCiclesGS1\MODUL - PROG\DISSENY MODULAR\DISSENY MODULAR\DISSENY MODULAR\DISSENY MODULAR.cpp(5,1): error C2143: error de sintaxis: falta ';' delante de '{'
+E:\AluCiclesGS1\MODUL - PROG\DISSENY MODULAR\DISSENY MODULAR\DISSENY MODULAR\DISSENY MODULAR.cpp(5,1): error C2447: '{': falta el encabezado de función (¿lista formal de estilo anterior?)
+E:\AluCiclesGS1\MODUL - PROG\DISSENY MODULAR\DISSENY MODULAR\DISSENY MODULAR\DISSENY MODULAR.cpp(12,1): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+E:\AluCiclesGS1\MODUL - PROG\DISSENY MODULAR\DISSENY MODULAR\DISSENY MODULAR\DISSENY MODULAR.cpp(12,1): error C2086: 'int Void': nueva definición
+      E:\AluCiclesGS1\MODUL - PROG\DISSENY MODULAR\DISSENY MODULAR\DISSENY MODULAR\DISSENY MODULAR.cpp(3,1):
+      vea la declaración de 'Void'
+  
+E:\AluCiclesGS1\MODUL - PROG\DISSENY MODULAR\DISSENY MODULAR\DISSENY MODULAR\DISSENY MODULAR.cpp(12,6): error C2146: error de sintaxis: falta ';' delante del identificador 'duplicate'
+E:\AluCiclesGS1\MODUL - PROG\DISSENY MODULAR\DISSENY MODULAR\DISSENY MODULAR\DISSENY MODULAR.cpp(13,1): error C2143: error de sintaxis: falta ';' delante de '{'
+E:\AluCiclesGS1\MODUL - PROG\DISSENY MODULAR\DISSENY MODULAR\DISSENY MODULAR\DISSENY MODULAR.cpp(13,1): error C2447: '{': falta el encabezado de función (¿lista formal de estilo anterior?)
+E:\AluCiclesGS1\MODUL - PROG\DISSENY MODULAR\DISSENY MODULAR\DISSENY MODULAR\DISSENY MODULAR.cpp(17,25): error C2015: hay demasiados caracteres en la constante
+E:\AluCiclesGS1\MODUL - PROG\DISSENY MODULAR\DISSENY MODULAR\DISSENY MODULAR\DISSENY MODULAR.cpp(17,42): error C2015: hay demasiados caracteres en la constante

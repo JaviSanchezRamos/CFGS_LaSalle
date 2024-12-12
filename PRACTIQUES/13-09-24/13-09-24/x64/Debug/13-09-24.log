@@ -1,0 +1,3 @@
+﻿  13-09-24.cpp
+E:\AluCiclesGS1\MODUL - PROG\13-09-24\13-09-24\13-09-24.cpp(30,12): warning C4305: '=': truncamiento de 'double' a 'float'
+  13-09-24.vcxproj -> E:\AluCiclesGS1\MODUL - PROG\13-09-24\x64\Debug\13-09-24.exe

@@ -1,0 +1,11 @@
+﻿  prueba TIMBER.cpp
+E:\AluCiclesGS1\MODUL - PROG\TIMBER\prueba TIMBER\prueba TIMBER\prueba TIMBER.cpp(104,36): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+E:\AluCiclesGS1\MODUL - PROG\TIMBER\prueba TIMBER\prueba TIMBER\prueba TIMBER.cpp(127,42): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+E:\AluCiclesGS1\MODUL - PROG\TIMBER\prueba TIMBER\prueba TIMBER\prueba TIMBER.cpp(320,34): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+E:\AluCiclesGS1\MODUL - PROG\TIMBER\prueba TIMBER\prueba TIMBER\prueba TIMBER.cpp(349,34): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+E:\AluCiclesGS1\MODUL - PROG\TIMBER\prueba TIMBER\prueba TIMBER\prueba TIMBER.cpp(401,38): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+E:\AluCiclesGS1\MODUL - PROG\TIMBER\prueba TIMBER\prueba TIMBER\prueba TIMBER.cpp(402,48): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+E:\AluCiclesGS1\MODUL - PROG\TIMBER\prueba TIMBER\prueba TIMBER\prueba TIMBER.cpp(422,36): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+E:\AluCiclesGS1\MODUL - PROG\TIMBER\prueba TIMBER\prueba TIMBER\prueba TIMBER.cpp(423,53): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+E:\AluCiclesGS1\MODUL - PROG\TIMBER\prueba TIMBER\prueba TIMBER\prueba TIMBER.cpp(450,17): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+  prueba TIMBER.vcxproj -> E:\AluCiclesGS1\MODUL - PROG\TIMBER\prueba TIMBER\Debug\prueba TIMBER.exe
